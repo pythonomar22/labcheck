@@ -2,6 +2,6 @@
 
 bash -i <<EOF
 cd ~
-conda activate py37_pytorch
+conda activate py38_default
 jupyter lab --no-browser
 EOF
