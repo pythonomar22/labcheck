@@ -9,8 +9,8 @@
 ## connect to the virtual machine (VM)
 `ssh -L 8888:localhost:8888 -p MY_VIRTUAL_MACHINE_PORT wvuser@MY_VIRTUAL_MACHINE_NAME.westeurope.cloudapp.azure.com`
 
-## Activate the conda environment called py37_pytorch
-`conda activate py37_pytorch`
+## Activate the conda environment called py38_default
+`conda activate py38_default`
 
 ## Start jupyter lab
 `jupyter lab --no-browser`
