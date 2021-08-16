@@ -19,7 +19,7 @@
 
 # "One-line" startup script
 Download it:  
-`wget https://raw.githubusercontent.com/WebValley2021ReImagined/labcheck/master/startjupyter.sh`  
+`wget https://raw.githubusercontent.com/WebValley2021ReImagined/labcheck/main/startjupyter.sh`  
 `chmod +x startjupyter.sh`
 
 after downloading the script, you can execute it with  
